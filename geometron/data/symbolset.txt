@@ -1,0 +1,19 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/junctioncurves/main/symolfeed/",
+    "symbols": [
+        "bias-and-junctions.svg",
+        "biasbox1.svg",
+        "biasbox2.svg",
+        "biasbox3.svg",
+        "current-relays.svg",
+        "drive-relays.svg",
+        "frontpanel.svg",
+        "junction1chip.svg",
+        "junction2chip.svg",
+        "junction3chip.svg",
+        "rc-line-filter.svg",
+        "symbol1706495207.svg",
+        "twisted-pair-pinouts.svg",
+        "voltage-relays.svg"
+    ]
+}
